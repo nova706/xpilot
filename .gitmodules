@@ -1,0 +1,9 @@
+[submodule "src/lib/pixi"]
+	path = src/lib/pixi
+	url = https://github.com/pixijs/pixi.js.git
+[submodule "src/lib/stats"]
+	path = src/lib/stats
+	url = https://github.com/mrdoob/stats.js.git
+[submodule "src/lib/q"]
+	path = src/lib/q
+	url = https://github.com/kriskowal/q.git

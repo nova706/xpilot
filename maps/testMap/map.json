@@ -1,0 +1,18 @@
+{
+    "background": {
+        "color": "0x080e13",
+        "near": "maps/testMap/assets/particles_1.png",
+        "mid": "maps/testMap/assets/particles_2.png",
+        "far": "maps/testMap/assets/particles_3.png",
+        "grid": "maps/testMap/assets/grid.png"
+    },
+    "walls": [
+        [40, 41, 0],
+        [40, 0, 0],
+        [40, -41, 0]
+    ],
+    "gravityWells": [
+        [800, 100, -500000],
+        [800, 600, 500000]
+    ]
+}

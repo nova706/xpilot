@@ -1,0 +1,21 @@
+{
+    "bitwise": false,
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "latedef": true,
+    "noarg": true,
+    "nonew": true,
+    "undef": true,
+    "browser": true,
+    "devel": true,
+    "laxbreak": true,
+    "predef": [
+        "module",
+        "require",
+        "exports",
+        "define",
+        "Stats",
+        "PIXI"
+    ]
+}
